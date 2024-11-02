@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<meta name="viewport" content="width:device-width,initial-scale:1.0">
 <title>Italia dan 3 kota Ikonik</title>
 <link rel="icon" type="image" href= url('stone.jpg')>
 <style>
 body{background-color:blanchedalmond}
-p,blockquote,li{font-family:2=verdana;font-size:20px;}
+p,blockquote,li{font-family:verdana;font-size:20px;}
 h1,h2,blockquote,p{width:80%;}
 </style>
 </head>
@@ -75,7 +76,7 @@ Selain itu,Venesia juga dikenal dengan <q><u>Piazza san Marco</u></q> dan  <q><u
 <hr>
 <div style="background-color:lightgreen">
 <h2 style="background-color:green">Penutupan</h2>
-<blockquote style="border:8px solid black;color:white;padding 20px">
+<blockquote style="border:8px solid black;color:white;padding:20px">
 Akhirnya selesailah sudah pembahasan kita tentang Italia dan 3 kota ikoniknya.<br>
 Harap diingat bahwa ini adalah latihan membuat website ,informasi yang ada di website ini,saya dapatkan dari maharaja <strong><em><q><u><mark><snap style="color:red">Chat</snap><snap style="color:blue">GPT</snap></mark></u></q></em></strong>.<br>
 Akhir kata,Assalamualaikum wr wb.
